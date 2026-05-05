@@ -1,0 +1,26 @@
+[
+  {
+    "type": "blog",
+    "url": "https://www.cdc.gov/ai/vision/index.html"
+  },
+  {
+    "type": "blog",
+    "url": "https://www.cdc.gov/ai/vision/examples-of-cdc-programs-currently-using-ai.html"
+  },
+  {
+    "type": "blog",
+    "url": "https://www.cdc.gov/ai/resources/considerations-for-genai-in-public-health.html"
+  },
+  {
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=aircAruvnKk"
+  },
+  {
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=2ePf9rue1Ao"
+  },
+  {
+    "type": "pubmed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37224178/"
+  }
+]
