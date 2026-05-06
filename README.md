@@ -10,16 +10,24 @@ project/
 │   ├── blog_scraper.py
 │   ├── youtube_scraper.py
 │   └── pubmed_scraper.py
+│
 ├── scoring/
 │   └── trust_score.py
+│
 ├── utils/
 │   ├── tagging.py
 │   ├── chunking.py
 │   └── language.py
+│
+├── tests/
+│   └── smoke_test.py
+│
 ├── data/
 │   └── urls.json
+│
 ├── output/
 │   └── scraped_data.json
+│
 ├── main.py
 ├── requirements.txt
 └── README.md
